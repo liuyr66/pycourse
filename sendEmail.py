@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 import smtplib
 import csv
 
-file ='C:/Users/liu/Desktop/staffEmail.csv'
+file ='staff_data.csv'
 
 print(file)
 to_addr =  ''
